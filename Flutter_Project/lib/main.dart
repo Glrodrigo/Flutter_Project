@@ -26,7 +26,7 @@ Widget build(BuildContext context) {
     children: [
       UserAccountsDrawerHeader(
         currentAccountPicture: CircleAvatar(
-          backgroundImage: NetworkImage('../Image/Ft.jpg'),
+          backgroundImage: NetworkImage('../assets/Ft.jpg'),
         ),
         accountName: Text('Gleison Rodrigo'),
         accountEmail: Text('Rodrigo@gmail.com'),
