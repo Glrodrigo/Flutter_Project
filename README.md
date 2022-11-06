@@ -6,4 +6,4 @@ O projeto a seguir tem por objetivo utilizar uma estrutura em que possamos explo
 
 Podemos verificar o resultado até o presente momento:
 
-<img src="Flutter_Project/assets/Debug.png">
+<p align="center"><img src="Flutter_Project/assets/Debug.png"><p align="center">
